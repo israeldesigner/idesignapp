@@ -6008,3 +6008,6 @@ body > * {
   background-size: cover;
   background-repeat: none;
   background-position: center; }
+
+a {
+  color: #fff !important; }
